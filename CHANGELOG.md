@@ -1,5 +1,6 @@
 # Unreleased
 
+- On Web, implement cursor grabbing through the pointer lock api
 - On X11, select an appropriate visual for transparency if is requested
 - On Wayland and X11, fix diagonal window resize cursor orientation.
 - On macOS, drop the event callback before exiting.
